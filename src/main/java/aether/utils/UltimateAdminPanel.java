@@ -15,3 +15,4 @@ public final class UltimateAdminPanel extends JavaPlugin implements Listener {
 }
 // I love how the main class in this plugin is literally one of the smallest ones XD
 // OOP being OOP
+// hi there from github
