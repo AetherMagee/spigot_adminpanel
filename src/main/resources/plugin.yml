@@ -1,0 +1,9 @@
+name: UltimateAdminPanel
+version: '${project.version}'
+main: aether.utils.UltimateAdminPanel
+api-version: 1.18
+description: An admin panel to moderate your minecraft server easily
+commands:
+  adminpanel:
+    permission: adminpanel.adminpanel
+    description: "Brings up administration panel to control the server easily"
